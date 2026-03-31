@@ -59,10 +59,13 @@ body {
     color: #220c0c;
 }
 
-.header{
-    padding: 50px;
-  text-align: center;
-  background-image: url("f1.png");
-  color: #ffffff;
-  font-size: 30px;
+
+.header img{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.szoveg{
+    padding-right: 50px;
+    padding-left: 50px;
 }
